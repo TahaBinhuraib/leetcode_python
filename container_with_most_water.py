@@ -18,7 +18,7 @@ def brute_force(heights: list[int]) -> int:
     return res
 
 
-heights = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+heights = [1, 8, 6, 2, 5, 4, 8, 3, 9]
 
 print(brute_force(heights))
 
